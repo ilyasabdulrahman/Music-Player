@@ -1,5 +1,5 @@
 # Music Player
-https://www.youtube.com/watch?v=PD6i1NJqz3s    (demonstration of the music player)
+https://www.youtube.com/watch?v=PD6i1NJqz3s    (demo of the music player)
 
 Make sure to install the Tkinter and Pygame APIs. Also, download the png file in the same directory as the music player.
 
